@@ -1,0 +1,5 @@
+E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Common.dll
+E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.dll
+E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csprojAssemblyReference.cache
+E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.AssemblyInfoInputs.cache
+E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.AssemblyInfo.cs

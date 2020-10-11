@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Quota.Common\Application.Quota.Common.csproj" />
+    <ProjectReference Include="..\Application.Quota.Dtos\Application.Quota.Dtos.csproj" />
+    <ProjectReference Include="..\Domain.Quota.Entities\Domain.Quota.Entities.csproj" />
+    <ProjectReference Include="..\Infrastructure.Quota.Agents\Infrastructure.Quota.Agents.csproj" />
+    <ProjectReference Include="..\Infrastructure.Quota.Data\Infrastructure.Quota.Data.csproj" />
+  </ItemGroup>
+
+</Project>

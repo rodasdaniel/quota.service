@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quota.API", "Quota.API\Quota.API.csproj", "{82E2835B-714F-4798-BACE-87F73E477C80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation", "1. Presentation", "{FAA8B391-79CE-4141-BC78-98B484281EA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application", "2. Application", "{7E688843-9F2C-40AC-B754-3CBC70121923}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Domain", "3. Domain", "{686D710D-6864-478D-8BA1-8BE7D649F371}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Infrastructure", "4. Infrastructure", "{A0F1B7D7-C9EB-41E4-98C0-40C2FAE05C8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Test", "5. Test", "{87A36EB2-C4BA-4BA8-B1B0-14E824DCB10D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Quota.Business", "Application.Quota.Business\Application.Quota.Business.csproj", "{069BF27A-2DC3-4501-9D4B-CECBF48B37F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Quota.Common", "Application.Quota.Common\Application.Quota.Common.csproj", "{D653D3E3-011D-408E-B843-F4A0124EBF2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Quota.Dtos", "Application.Quota.Dtos\Application.Quota.Dtos.csproj", "{965798F1-CEC3-487C-95BE-81C7BA3B8BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Quota.Entities", "Domain.Quota.Entities\Domain.Quota.Entities.csproj", "{D932A7CD-099A-42FE-A071-77A1DAA1B94E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Agents", "Agents", "{6D7D013D-E1D1-4200-A6DE-490AE083F665}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{0E9A46C9-2E33-4565-85C5-B92833754416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Quota.Data", "Infrastructure.Quota.Data\Infrastructure.Quota.Data.csproj", "{B8F78634-26B7-4B37-A93A-3E57D96BC65A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Quota.Agents", "Infrastructure.Quota.Agents\Infrastructure.Quota.Agents.csproj", "{704D6A87-8228-48DF-A014-ED6752A09D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E2835B-714F-4798-BACE-87F73E477C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E2835B-714F-4798-BACE-87F73E477C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E2835B-714F-4798-BACE-87F73E477C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E2835B-714F-4798-BACE-87F73E477C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069BF27A-2DC3-4501-9D4B-CECBF48B37F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069BF27A-2DC3-4501-9D4B-CECBF48B37F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069BF27A-2DC3-4501-9D4B-CECBF48B37F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069BF27A-2DC3-4501-9D4B-CECBF48B37F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D653D3E3-011D-408E-B843-F4A0124EBF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D653D3E3-011D-408E-B843-F4A0124EBF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D653D3E3-011D-408E-B843-F4A0124EBF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D653D3E3-011D-408E-B843-F4A0124EBF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965798F1-CEC3-487C-95BE-81C7BA3B8BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965798F1-CEC3-487C-95BE-81C7BA3B8BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965798F1-CEC3-487C-95BE-81C7BA3B8BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965798F1-CEC3-487C-95BE-81C7BA3B8BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D932A7CD-099A-42FE-A071-77A1DAA1B94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D932A7CD-099A-42FE-A071-77A1DAA1B94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D932A7CD-099A-42FE-A071-77A1DAA1B94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D932A7CD-099A-42FE-A071-77A1DAA1B94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F78634-26B7-4B37-A93A-3E57D96BC65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F78634-26B7-4B37-A93A-3E57D96BC65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F78634-26B7-4B37-A93A-3E57D96BC65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F78634-26B7-4B37-A93A-3E57D96BC65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704D6A87-8228-48DF-A014-ED6752A09D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704D6A87-8228-48DF-A014-ED6752A09D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704D6A87-8228-48DF-A014-ED6752A09D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704D6A87-8228-48DF-A014-ED6752A09D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{82E2835B-714F-4798-BACE-87F73E477C80} = {FAA8B391-79CE-4141-BC78-98B484281EA0}
+		{069BF27A-2DC3-4501-9D4B-CECBF48B37F3} = {7E688843-9F2C-40AC-B754-3CBC70121923}
+		{D653D3E3-011D-408E-B843-F4A0124EBF2D} = {7E688843-9F2C-40AC-B754-3CBC70121923}
+		{965798F1-CEC3-487C-95BE-81C7BA3B8BFA} = {7E688843-9F2C-40AC-B754-3CBC70121923}
+		{D932A7CD-099A-42FE-A071-77A1DAA1B94E} = {686D710D-6864-478D-8BA1-8BE7D649F371}
+		{6D7D013D-E1D1-4200-A6DE-490AE083F665} = {A0F1B7D7-C9EB-41E4-98C0-40C2FAE05C8D}
+		{0E9A46C9-2E33-4565-85C5-B92833754416} = {A0F1B7D7-C9EB-41E4-98C0-40C2FAE05C8D}
+		{B8F78634-26B7-4B37-A93A-3E57D96BC65A} = {0E9A46C9-2E33-4565-85C5-B92833754416}
+		{704D6A87-8228-48DF-A014-ED6752A09D11} = {6D7D013D-E1D1-4200-A6DE-490AE083F665}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A50392-5AC9-48B6-86B2-3E525D255F4C}
+	EndGlobalSection
+EndGlobal
