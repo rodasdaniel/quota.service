@@ -3,3 +3,17 @@ E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\bin\Debug\n
 E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csprojAssemblyReference.cache
 E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.AssemblyInfoInputs.cache
 E:\Prueba SISTE\backupCode\Quota.Service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.AssemblyInfo.cs
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.deps.json
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.dll
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.pdb
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Common.dll
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.dll
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Common.pdb
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.pdb
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csprojAssemblyReference.cache
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.AssemblyInfoInputs.cache
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.AssemblyInfo.cs
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csproj.CopyComplete
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.dll
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.pdb
+E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aj3YV18m0Ah5ScDQ944RBHP0vwJ1BDK+9iC4N/I6SF5vu35RwTBl/DA2GQDSta5hIgT3az8Si4NJcI3W0AEVBA==",
+  "dgSpecHash": "oFeHpkvG4mu9FcTX8G88muqbm4MX+MQukCciNs8d81rbvhym9eSZlFpEK6czRLwyaoG5vbX0GggsWxkswSbgFQ==",
   "success": true,
-  "projectFilePath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Quota.API\\Quota.API.csproj",
+  "projectFilePath": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

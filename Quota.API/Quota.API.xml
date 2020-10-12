@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Quota.API</name>
+    </assembly>
+    <members>
+        <member name="T:Quota.API.Controllers.QuotaController">
+            <summary>
+            Controlador encargado de realizar las operaciones de las cuotas
+            </summary>
+        </member>
+        <member name="M:Quota.API.Controllers.QuotaController.GetByIdCredit(System.Int64)">
+            <summary>
+            Método a través del cual se obtienen los datos de las cuotas de un crédito específico.
+            </summary>
+            <param name="idCredit">Representa el identificador único del registro de crédito.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Quota.API.Controllers.QuotaController.SimulateQuotas(Application.Quota.Dtos.SimulateQuotasRequest)">
+            <summary>
+            Método a través del cual se realiza una simulación de las cuotas para un crédito.
+            </summary>
+            <param name="simulateQuotasRequest">Datos necesarios para la realización de la simulación de las cuotas de un crédito.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Quota.API.Controllers.QuotaController.Create(Application.Quota.Dtos.CreateQuotasRequest)">
+            <summary>
+            Método a través del cual se realiza la creación de las cuotas para un crédito.
+            </summary>
+            <param name="createQuotasRequest">Datos necesarios para la realización de la creación de las cuotas de un crédito.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

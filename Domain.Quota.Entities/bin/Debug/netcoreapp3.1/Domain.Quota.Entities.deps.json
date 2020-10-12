@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Domain.Quota.Entities/1.0.0": {
+        "runtime": {
+          "Domain.Quota.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain.Quota.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

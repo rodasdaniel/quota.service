@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj": {}
+    "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {}
   },
   "projects": {
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
+    "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj",
         "projectName": "Application.Quota.Common",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

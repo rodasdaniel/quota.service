@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Quota.API\\Quota.API.csproj": {}
+    "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj": {}
   },
   "projects": {
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Business\\Application.Quota.Business.csproj": {
+    "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Business\\Application.Quota.Business.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj",
         "projectName": "Application.Quota.Business",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Business\\Application.Quota.Business.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Business\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,20 +33,20 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
+    "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj",
         "projectName": "Application.Quota.Common",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -158,14 +158,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
+    "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
         "projectName": "Application.Quota.Dtos",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -222,14 +222,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
+    "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
         "projectName": "Domain.Quota.Entities",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Domain.Quota.Entities\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -280,14 +280,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj": {
+    "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj",
         "projectName": "Infrastructure.Quota.Agents",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Agents\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -309,11 +309,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Common\\Application.Quota.Common.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj"
               }
             }
           }
@@ -351,14 +351,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj": {
+    "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj",
         "projectName": "Infrastructure.Quota.Data",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Infrastructure.Quota.Data\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -380,8 +380,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj"
               }
             }
           }
@@ -437,14 +437,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Quota.API\\Quota.API.csproj": {
+    "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Quota.API\\Quota.API.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj",
         "projectName": "Quota.API",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Quota.API\\Quota.API.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Quota.API\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -466,8 +466,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Business\\Application.Quota.Business.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Business\\Application.Quota.Business.csproj"
+              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj"
               }
             }
           }

@@ -7546,11 +7546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
+      "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
       "projectName": "Application.Quota.Dtos",
-      "projectPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
+      "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\obj\\",
+      "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

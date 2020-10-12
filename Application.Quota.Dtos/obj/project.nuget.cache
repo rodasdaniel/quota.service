@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pCpv6Qulr2hHJYpqnKJMF2kmLMUFjc4bmjAEZI9yiqwml2QizOHp/E8yBAkaaK6rJTeANfmmtwlGt1niTfsnKQ==",
+  "dgSpecHash": "Dc4hvK3sWv6Get21QGxNK4zH4XLXpfOXgpGJYd+No+LfqjmUH8dFKgthVfkICxXo8L7/LIkzaOIhK4Rv+Lsodw==",
   "success": true,
-  "projectFilePath": "E:\\Prueba SISTE\\backupCode\\Quota.Service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
+  "projectFilePath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
