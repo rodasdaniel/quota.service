@@ -10,7 +10,8 @@ namespace Application.Quota.Dtos
         {
             return new ObjectResult(new { statusCode = code })
             {
-                Value = new HttpResponseDto<T> { Code = Convert.ToInt32(code), Description = message, Object = response }
+                Value = new HttpResponseDto<T> { Code = Convert.ToInt32(code), 
+                    Description = message, Object = response }
             };
         }
     }

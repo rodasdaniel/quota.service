@@ -103,3 +103,4 @@ E:\Prueba SISTE\Code\quota.service\Quota.API\obj\Debug\netcoreapp3.1\staticwebas
 E:\Prueba SISTE\Code\quota.service\Quota.API\obj\Debug\netcoreapp3.1\Quota.API.dll
 E:\Prueba SISTE\Code\quota.service\Quota.API\obj\Debug\netcoreapp3.1\Quota.API.pdb
 E:\Prueba SISTE\Code\quota.service\Quota.API\obj\Debug\netcoreapp3.1\Quota.API.genruntimeconfig.cache
+E:\Prueba SISTE\Code\quota.service\Quota.API\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json

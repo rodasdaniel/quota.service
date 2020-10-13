@@ -2,9 +2,6 @@
 using Infrastructure.Quota.Agents.CallService;
 using Microsoft.Extensions.Configuration;
 using RestSharp;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Infrastructure.Quota.Agents.Client
