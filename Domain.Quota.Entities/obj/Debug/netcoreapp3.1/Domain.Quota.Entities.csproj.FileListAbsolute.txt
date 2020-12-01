@@ -7,3 +7,11 @@ E:\Prueba SISTE\Code\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1
 E:\Prueba SISTE\Code\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1\Domain.Quota.Entities.AssemblyInfo.cs
 E:\Prueba SISTE\Code\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1\Domain.Quota.Entities.dll
 E:\Prueba SISTE\Code\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1\Domain.Quota.Entities.pdb
+C:\Code\tst\quota.service\Domain.Quota.Entities\bin\Debug\netcoreapp3.1\Domain.Quota.Entities.deps.json
+C:\Code\tst\quota.service\Domain.Quota.Entities\bin\Debug\netcoreapp3.1\Domain.Quota.Entities.dll
+C:\Code\tst\quota.service\Domain.Quota.Entities\bin\Debug\netcoreapp3.1\Domain.Quota.Entities.pdb
+C:\Code\tst\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1\Domain.Quota.Entities.AssemblyInfoInputs.cache
+C:\Code\tst\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1\Domain.Quota.Entities.AssemblyInfo.cs
+C:\Code\tst\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1\Domain.Quota.Entities.csproj.CoreCompileInputs.cache
+C:\Code\tst\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1\Domain.Quota.Entities.dll
+C:\Code\tst\quota.service\Domain.Quota.Entities\obj\Debug\netcoreapp3.1\Domain.Quota.Entities.pdb

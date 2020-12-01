@@ -17,3 +17,17 @@ E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcore
 E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.dll
 E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.pdb
 E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csproj.CoreCompileInputs.cache
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.deps.json
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.dll
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.pdb
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Common.dll
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.dll
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Common.pdb
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.pdb
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csprojAssemblyReference.cache
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.AssemblyInfoInputs.cache
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.AssemblyInfo.cs
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csproj.CoreCompileInputs.cache
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.csproj.CopyComplete
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.dll
+C:\Code\tst\quota.service\Infrastructure.Quota.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.pdb

@@ -18,3 +18,23 @@ E:\Prueba SISTE\Code\quota.service\Application.Quota.Business\obj\Debug\netcorea
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.csproj.CopyComplete
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.dll
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.pdb
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Application.Quota.Business.deps.json
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Application.Quota.Business.dll
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Application.Quota.Business.pdb
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Application.Quota.Common.dll
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.dll
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Domain.Quota.Entities.dll
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.dll
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Data.dll
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Application.Quota.Common.pdb
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.pdb
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Domain.Quota.Entities.pdb
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Agents.pdb
+C:\Code\tst\quota.service\Application.Quota.Business\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Data.pdb
+C:\Code\tst\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.csprojAssemblyReference.cache
+C:\Code\tst\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.AssemblyInfoInputs.cache
+C:\Code\tst\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.AssemblyInfo.cs
+C:\Code\tst\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.csproj.CoreCompileInputs.cache
+C:\Code\tst\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.csproj.CopyComplete
+C:\Code\tst\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.dll
+C:\Code\tst\quota.service\Application.Quota.Business\obj\Debug\netcoreapp3.1\Application.Quota.Business.pdb

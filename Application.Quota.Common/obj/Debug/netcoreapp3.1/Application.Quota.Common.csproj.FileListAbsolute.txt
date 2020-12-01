@@ -14,3 +14,13 @@ E:\Prueba SISTE\Code\quota.service\Application.Quota.Common\obj\Debug\netcoreapp
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.AssemblyInfo.cs
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.dll
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.pdb
+C:\Code\tst\quota.service\Application.Quota.Common\bin\Debug\netcoreapp3.1\Application.Quota.Common.deps.json
+C:\Code\tst\quota.service\Application.Quota.Common\bin\Debug\netcoreapp3.1\Application.Quota.Common.dll
+C:\Code\tst\quota.service\Application.Quota.Common\bin\Debug\netcoreapp3.1\Application.Quota.Common.pdb
+C:\Code\tst\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.Resources.Messages.resources
+C:\Code\tst\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.csproj.GenerateResource.cache
+C:\Code\tst\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.AssemblyInfoInputs.cache
+C:\Code\tst\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.AssemblyInfo.cs
+C:\Code\tst\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.csproj.CoreCompileInputs.cache
+C:\Code\tst\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.dll
+C:\Code\tst\quota.service\Application.Quota.Common\obj\Debug\netcoreapp3.1\Application.Quota.Common.pdb

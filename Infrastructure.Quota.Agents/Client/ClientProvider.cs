@@ -21,7 +21,7 @@ namespace Infrastructure.Quota.Agents.Client
             HttpResponseDto<InfoClientDto> infoClientDto = (HttpResponseDto<InfoClientDto>)
                 CallRestService.CallServiceAsync<HttpResponseDto<InfoClientDto>>(
                     string.Format(_config.GetSection("AgentEndpoints:GetInfoClient").Value, idClient)
-                    , null, Method.GET, false, false).Result;
+                    , null, Method.GET,"", false, false).Result;
             if (infoClientDto == null) return null;
             return infoClientDto.Object;
         }

@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.Storage.Blob" Version="11.2.2" />
+    <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Application.Quota.Common\Application.Quota.Common.csproj" />
     <ProjectReference Include="..\Application.Quota.Dtos\Application.Quota.Dtos.csproj" />
     <ProjectReference Include="..\Domain.Quota.Entities\Domain.Quota.Entities.csproj" />

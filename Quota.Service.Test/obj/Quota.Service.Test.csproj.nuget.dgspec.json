@@ -1,52 +1,47 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Prueba SISTE\\Code\\quota.service\\Quota.Service.Test\\Quota.Service.Test.csproj": {}
+    "C:\\Code\\tst\\quota.service\\Quota.Service.Test\\Quota.Service.Test.csproj": {}
   },
   "projects": {
-    "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj": {
+    "C:\\Code\\tst\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj",
+        "projectUniqueName": "C:\\Code\\tst\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj",
         "projectName": "Application.Quota.Business",
-        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\obj\\",
+        "projectPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Business\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj"
+              "C:\\Code\\tst\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj"
               },
-              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj"
+              "C:\\Code\\tst\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj"
               },
-              "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj"
+              "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj"
               },
-              "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj"
+              "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj"
               },
-              "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj"
+              "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj"
               }
             }
           }
@@ -59,6 +54,17 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Azure.Storage.Blob": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -74,38 +80,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
+    "C:\\Code\\tst\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj",
+        "projectUniqueName": "C:\\Code\\tst\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj",
         "projectName": "Application.Quota.Common",
-        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\obj\\",
+        "projectPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -117,6 +118,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -154,38 +156,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
+    "C:\\Code\\tst\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
+        "projectUniqueName": "C:\\Code\\tst\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
         "projectName": "Application.Quota.Dtos",
-        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\obj\\",
+        "projectPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Dtos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -197,6 +194,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
@@ -218,38 +216,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
+    "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
+        "projectUniqueName": "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
         "projectName": "Domain.Quota.Entities",
-        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\obj\\",
+        "projectPath": "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -261,6 +254,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -276,44 +270,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj": {
+    "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj",
+        "projectUniqueName": "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj",
         "projectName": "Infrastructure.Quota.Agents",
-        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Agents\\obj\\",
+        "projectPath": "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Agents\\Infrastructure.Quota.Agents.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Agents\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj"
+              "C:\\Code\\tst\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Common\\Application.Quota.Common.csproj"
               },
-              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj"
+              "C:\\Code\\tst\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Dtos\\Application.Quota.Dtos.csproj"
               }
             }
           }
@@ -326,7 +315,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[106.11.4, )"
@@ -347,41 +341,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj": {
+    "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj",
+        "projectUniqueName": "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj",
         "projectName": "Infrastructure.Quota.Data",
-        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Infrastructure.Quota.Data\\obj\\",
+        "projectPath": "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Data\\Infrastructure.Quota.Data.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\tst\\quota.service\\Infrastructure.Quota.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj"
+              "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj"
               }
             }
           }
@@ -394,6 +383,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -433,41 +423,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj": {
+    "C:\\Code\\tst\\quota.service\\Quota.API\\Quota.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj",
+        "projectUniqueName": "C:\\Code\\tst\\quota.service\\Quota.API\\Quota.API.csproj",
         "projectName": "Quota.API",
-        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\obj\\",
+        "projectPath": "C:\\Code\\tst\\quota.service\\Quota.API\\Quota.API.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\tst\\quota.service\\Quota.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj"
+              "C:\\Code\\tst\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Application.Quota.Business\\Application.Quota.Business.csproj"
               }
             }
           }
@@ -480,6 +465,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.Extensions.PlatformAbstractions": {
               "target": "Package",
@@ -512,41 +498,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Prueba SISTE\\Code\\quota.service\\Quota.Service.Test\\Quota.Service.Test.csproj": {
+    "C:\\Code\\tst\\quota.service\\Quota.Service.Test\\Quota.Service.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.Service.Test\\Quota.Service.Test.csproj",
+        "projectUniqueName": "C:\\Code\\tst\\quota.service\\Quota.Service.Test\\Quota.Service.Test.csproj",
         "projectName": "Quota.Service.Test",
-        "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.Service.Test\\Quota.Service.Test.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.Service.Test\\obj\\",
+        "projectPath": "C:\\Code\\tst\\quota.service\\Quota.Service.Test\\Quota.Service.Test.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\tst\\quota.service\\Quota.Service.Test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\Code\\quota.service\\Quota.API\\Quota.API.csproj"
+              "C:\\Code\\tst\\quota.service\\Quota.API\\Quota.API.csproj": {
+                "projectPath": "C:\\Code\\tst\\quota.service\\Quota.API\\Quota.API.csproj"
               }
             }
           }
@@ -559,6 +540,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -595,7 +577,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -17,3 +17,18 @@ E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreap
 E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.dll
 E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.pdb
 E:\Prueba SISTE\Code\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.genruntimeconfig.cache
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Data.deps.json
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Data.runtimeconfig.json
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Data.runtimeconfig.dev.json
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Data.dll
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\bin\Debug\netcoreapp3.1\Infrastructure.Quota.Data.pdb
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\bin\Debug\netcoreapp3.1\Domain.Quota.Entities.dll
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\bin\Debug\netcoreapp3.1\Domain.Quota.Entities.pdb
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.csprojAssemblyReference.cache
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.AssemblyInfoInputs.cache
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.AssemblyInfo.cs
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.csproj.CoreCompileInputs.cache
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.csproj.CopyComplete
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.dll
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.pdb
+C:\Code\tst\quota.service\Infrastructure.Quota.Data\obj\Debug\netcoreapp3.1\Infrastructure.Quota.Data.genruntimeconfig.cache

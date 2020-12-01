@@ -11,3 +11,12 @@ E:\Prueba SISTE\Code\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.AssemblyInfo.cs
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.dll
 E:\Prueba SISTE\Code\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.pdb
+C:\Code\tst\quota.service\Application.Quota.Dtos\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.deps.json
+C:\Code\tst\quota.service\Application.Quota.Dtos\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.dll
+C:\Code\tst\quota.service\Application.Quota.Dtos\bin\Debug\netcoreapp3.1\Application.Quota.Dtos.pdb
+C:\Code\tst\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.csprojAssemblyReference.cache
+C:\Code\tst\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.AssemblyInfoInputs.cache
+C:\Code\tst\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.AssemblyInfo.cs
+C:\Code\tst\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.csproj.CoreCompileInputs.cache
+C:\Code\tst\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.dll
+C:\Code\tst\quota.service\Application.Quota.Dtos\obj\Debug\netcoreapp3.1\Application.Quota.Dtos.pdb

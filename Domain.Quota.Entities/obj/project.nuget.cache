@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D9i3xCtmtfRBCM5EUsoHJqzUymsWrpdPDX0GeU3ehI3LhzDyPMplNgpopaZNmXA6FJZuAYSVSY6vV4pmjX+FyA==",
+  "dgSpecHash": "xVivW7rLNdz+2WDMmONdkoVXcH7qea0k7KcIYiFaygVcGSEDLVH2PKohQTNrUoGluTEF9ftPXOtrcUXdNafnUA==",
   "success": true,
-  "projectFilePath": "E:\\Prueba SISTE\\Code\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
+  "projectFilePath": "C:\\Code\\tst\\quota.service\\Domain.Quota.Entities\\Domain.Quota.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
